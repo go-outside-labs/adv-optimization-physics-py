@@ -1,4 +1,4 @@
-# Numerical Methods for Physics
+# 🍒 Advanced Numerical Methods for Physics
 
 This repository contains the source code and homework for many examples of numerical methods and exercises for Physics and Astrophysics (from the graduate class taught by Prof. Mike Zingale at Stony Brook University):
 
