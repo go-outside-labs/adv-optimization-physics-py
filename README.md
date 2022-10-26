@@ -2,7 +2,9 @@
 
 <br>
 
-This repository contains the source code and homework for many examples of numerical methods and exercises for Physics and Astrophysics:
+Graduate studies of numerical methods for Physics and Astrophysics:
+
+<br>
 
 - Integration and Differentiation: numerical derivatives, error estimates, Simpson's rule.
 
@@ -16,12 +18,3 @@ This repository contains the source code and homework for many examples of numer
 
 - Computational Fluid Dynamics: Rayleigh-Taylor Instabilities.
 
-
-
-----
-
-
-## License
-
-When making a reference to my work, please use my [website](http://www.astro.sunysb.edu/steinkirch/). 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
