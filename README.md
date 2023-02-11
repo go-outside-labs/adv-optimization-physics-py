@@ -1,8 +1,8 @@
-# 🍒 Advanced Numerical Methods for Physics
+## 🌌🛩  Advanced Numerical Methods for Physics
 
 <br>
 
-Graduate studies of numerical methods for Physics and Astrophysics:
+##### Graduate studies of numerical methods for Physics and Astrophysics:
 
 <br>
 
@@ -18,3 +18,12 @@ Graduate studies of numerical methods for Physics and Astrophysics:
 
 - Computational Fluid Dynamics: Rayleigh-Taylor Instabilities.
 
+<br>
+
+----
+
+### resources
+
+<br>
+
+* [reference to my work on wikipedia-pt](https://pt.wikipedia.org/wiki/Condi%C3%A7%C3%B5es_de_coordenadas)
