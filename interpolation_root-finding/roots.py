@@ -1,6 +1,5 @@
 # use bisection, Newton's method, or secant method to find roots
 #
-# M. Zingale (2013-02-14)
 
 import math
 

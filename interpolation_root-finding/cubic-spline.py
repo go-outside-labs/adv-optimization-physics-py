@@ -8,8 +8,7 @@
 # solve the matrix system for the splines
 #
 # plot the splines
-#
-# M. Zingale (2013-02-10)
+
 
 import numpy
 import pylab

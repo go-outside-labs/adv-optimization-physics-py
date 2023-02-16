@@ -3,17 +3,17 @@
 
 <br>
 
-- Integration and Differentiation: numerical derivatives, error estimates, Simpson's rule.
+#### 👉 integration and differentiation: numerical derivatives, error estimates, simpson's rule.
 
-- Ordinary Differential Equations: Eulder and Euler-Cromer methods, Verlet method.
+#### 👉 ordinary differential equations: eulder and euler-cromer methods, verlet method.
 
-- Linear Algebra and FFTs: time series for the damped driven pendulum, matrix inverse,  conditional number.
+#### 👉 linear Aagebra and FFTs: time series for the damped driven pendulum, matrix inverse, conditional number.
 
-- Advection and Hyperbolic Partial Differential Equations: implicit advection, Lax Wendroff, non-linear hyperbolic equations.
+#### 👉 advection and Hhperbolic partial differential equations: implicit advection, lax wendroff, non-linear hyperbolic equations.
 
-- Elliptic Partial Differential Equations.
+#### 👉 elliptic partial differential equations.
 
-- Computational Fluid Dynamics: Rayleigh-Taylor Instabilities.
+#### 👉 computational fluid dynamics: rayleigh-taylor instabilities.
 
 <br>
 

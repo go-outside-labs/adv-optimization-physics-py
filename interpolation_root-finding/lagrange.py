@@ -1,4 +1,5 @@
 # lagrange interpolation example
+# author: steinkirch
 
 import math
 import numpy
