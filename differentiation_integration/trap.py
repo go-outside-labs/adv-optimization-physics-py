@@ -1,6 +1,5 @@
 # trapezoidal rule
-#
-# M. Zingale (2013-02-13)
+
 
 import math
 import numpy

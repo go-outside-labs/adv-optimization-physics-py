@@ -4,8 +4,6 @@ solve the diffusion equation:
  phi_t = k phi_{xx} 
 
 with a first-order (in time) implicit discretization
-
-M. Zingale (2013-04-03)
 """
 
 import numpy

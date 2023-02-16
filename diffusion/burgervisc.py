@@ -7,8 +7,6 @@ the advective flux and then discretize the diffusion part implicitly
 time.
 
 The resulting method is second-order in space and time.
-
-M. Zingale (2013-04-03)
 """
 
 import numpy

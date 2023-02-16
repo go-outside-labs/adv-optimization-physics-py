@@ -8,8 +8,6 @@
 # in this version, we use an iterative method to solve the tridiagonal system
 #
 # plot the splines
-#
-# M. Zingale (2013-03-03)
 
 import numpy
 import pylab

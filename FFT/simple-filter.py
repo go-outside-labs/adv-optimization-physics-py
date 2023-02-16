@@ -15,7 +15,6 @@ import math
 
 # note that the scipy version of rfft returns that data differently
 
-# M. Zingale (2013-02-28)
 
 
 def twoFreqSine(npts):

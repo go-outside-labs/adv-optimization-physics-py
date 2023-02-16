@@ -3,7 +3,6 @@
 # 
 # We are solving a_t + u a_x = 0
 #
-# M. Zingale (2013-03-24)
 
 import numpy
 import pylab

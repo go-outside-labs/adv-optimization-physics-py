@@ -1,9 +1,0 @@
-Laplace & Poisson equations / elliptic PDEs
-	Lecture Notes: Poisson-p1.pdf
-Readings
-	multigrid.pdf (notes on multigrid)
-Examples
-	Simple (Gauss-Seidel) smoothing in 1-d: smooth-separate.py
-	A 1-d multigrid solver for Poisson and constant-coefficient Helmholtz equations: multigrid.py patch1d.py mg_test.py (a sample driver)
-	Multigrid in action animation
-	FFT solution of Poisson's eq: poissonFFT-discrete.py

@@ -1,5 +1,6 @@
 import numpy
 
+
 def tridiag(a, b, c, d):
     """ solve the linear system Ax = d where A has the form:
 
@@ -12,8 +13,7 @@ def tridiag(a, b, c, d):
 
     N = len(a)
     if not (len(b) == len(c) == len(d) == N):
-        print "ERROR: vectors not the right size"
-        return None
+        print("ERROR: vectors not the right size")
 
     # forward elimination
     cprime = numpy.zeros((N), dtype=a.dtype)
@@ -44,9 +44,7 @@ def triMultAx(a, b, c, x):
 
     N = len(a)
     if not (len(b) == len(c) == len(x) == N):
-        print "ERROR: vectors not the right size"
-        return None
-
+        print()"ERROR: vectors not the right size)
     
     d = numpy.zeros((N), dtype=a.dtype)
 

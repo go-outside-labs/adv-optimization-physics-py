@@ -1,6 +1,5 @@
 # more fun with lists
 
-
 # create an empty list
 myList = []
 

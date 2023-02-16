@@ -3,7 +3,6 @@
 # 
 # We are solving u_t + u u_x = 0 with outflow boundary conditions
 #
-# M. Zingale (2013-03-26)
 
 import numpy
 import pylab

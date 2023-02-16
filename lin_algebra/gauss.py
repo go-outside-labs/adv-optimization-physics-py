@@ -1,6 +1,4 @@
 # gaussian elimination with scaled pivoting
-#
-# M. Zingale (2013-02-25)
 
 import numpy
 

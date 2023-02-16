@@ -5,8 +5,6 @@
 Solve the diffusion equation with Crank-Nicolson time-discretization
 using MG.
 
-M. Zingale (2013-04-07)
-
 """
 #from io import *
 import numpy

@@ -5,7 +5,6 @@
 # any given time -- this allows for jobs of varying length to be run
 # together.
 #
-# M. Zingale
 
 #----------------------------------------------------------------------------
 # user modifiable variables:

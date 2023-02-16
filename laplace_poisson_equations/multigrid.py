@@ -53,8 +53,6 @@ of the solution array (i.e. excluding the guardcells).
 
 a.x is the coordinate arrays, a.dx is the grid spacings
 
-M. Zingale (2013-03-28)
-
 """
 
 import patch1d

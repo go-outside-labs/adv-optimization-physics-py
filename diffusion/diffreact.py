@@ -1,11 +1,10 @@
 """
 solve a scalar diffusion-reaction equation:
 
- phi_t = kappa phi_{xx} + (1/tau) R(phi)
+phi_t = kappa phi_{xx} + (1/tau) R(phi)
 
 using operator splitting, with implicit diffusion
 
-M. Zingale (2013-04-03)
 """
 
 import numpy

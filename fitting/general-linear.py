@@ -2,8 +2,7 @@
 # functions can be non-linear, but we fit to a linear combination of
 # the basis functions.  We consider simple polynomials (1, x, x**2, ...)
 # and the Legendre polynomials
-#
-# M. Zingale (2013-03-10)
+
 
 import numpy
 import pylab

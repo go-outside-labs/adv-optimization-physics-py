@@ -4,9 +4,6 @@
 !
 ! u_t + a u_x = 0
 !
-! M. Zingale (2012-02-29)
-!
-! version 1.01 (2013-03-24): 
 !
 !      bug fix in PLM slope computation -- now gets second-order for u
 !      positive or negative, and a bug in the computation of the PPM

@@ -10,8 +10,6 @@ u = 0 on the boundary [0,1]
 
 The analytic solution is u(x) = -sin(x) + x sin(1)
 
-M. Zingale (2013-03-31)
-
 """
 #from io import *
 import numpy

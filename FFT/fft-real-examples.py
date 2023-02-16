@@ -15,8 +15,7 @@ import math
 # these are the routines we want for real valued data
 #
 # note that the scipy version of rfft returns that data differently
-#
-# M. Zingale (2013-03-03)
+
 
 
 def singleFreqSine(npts):

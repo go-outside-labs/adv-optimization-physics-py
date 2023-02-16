@@ -7,8 +7,7 @@
 # with u(0) = 0, u(1) = 1
 #
 # this has the analytic solution: u(x) = cos(pi x/2) + 2 sin(pi x/2) - 1
-#
-# M. Zingale (2013-02-18)
+
 
 import numpy
 import math

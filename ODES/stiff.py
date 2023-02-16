@@ -8,8 +8,7 @@
 # y(t) = exp(-t) - exp(-1e3 t)
 #
 # this example comes from Byrne & Hindemarsh (1986)
-#
-# M. Zingale (2013-02-22)
+
 
 import math
 import numpy

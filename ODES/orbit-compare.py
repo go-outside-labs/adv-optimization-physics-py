@@ -1,6 +1,5 @@
 # compare different ODE methods on the circular orbit problem
-#
-# M. Zingale (2013-02-19)
+
 
 import numpy
 import pylab

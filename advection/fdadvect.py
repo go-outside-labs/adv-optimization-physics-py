@@ -6,7 +6,6 @@
 # 
 # where C is the CFL number
 #
-# M. Zingale (2013-03-12)
 
 import numpy
 import pylab

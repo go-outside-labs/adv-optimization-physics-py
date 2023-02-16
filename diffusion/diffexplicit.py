@@ -5,8 +5,6 @@
 #
 # We run at several resolutions and compute the error.  This uses a
 # cell-centered finite-difference grid
-#
-# M. Zingale (2013-04-07)
 
 import numpy
 import pylab

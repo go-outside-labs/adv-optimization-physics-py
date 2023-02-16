@@ -1,9 +1,0 @@
-Advection / hyperbolic PDEs
-	Lecture Notes: pde-overview.pdf advection.pdf
-Readings
-	finite-volume.pdf (notes on the finite volume discretization)
-	advection.pdf (notes on linear advection)
-Examples
-	Simple finite-difference advection (both upwind or FTCS): fdadvect.py
-	Second-order finite-volume method (piecewise linear reconstruction) for linear advection: fv_advection.py 
-	Second-order finite-volume method for Burger's equation: fv_burgers.py

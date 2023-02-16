@@ -1,6 +1,7 @@
-A simple example:
+## makefiles
+
+<br>
 
 -- no dependencies amongst files
-
 -- hardcoded makefile
 

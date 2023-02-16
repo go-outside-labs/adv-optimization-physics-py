@@ -1,8 +1,6 @@
 # simple example of linear regression.  We make up some "experimental"
 # data by calling a random number generator to perturb a line and then
 # fit to that line
-#
-# M. Zingale (2013-03-10)
 
 import numpy
 import pylab

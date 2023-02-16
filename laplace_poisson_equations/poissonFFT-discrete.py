@@ -5,8 +5,6 @@
 # This is the way that Garcia and NR do it.
 #
 # Note: we need a periodic problem for an FFT
-#
-# M. Zingale (2013-04-02)
 
 import pylab
 import numpy

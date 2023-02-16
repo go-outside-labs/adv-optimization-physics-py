@@ -2,8 +2,7 @@
 # reduces to a multivariate root finding problem
 #
 # This is very sensitive to our initial guess
-#
-# M. Zingale (2013-03-10)
+
 
 import numpy
 import numpy.linalg

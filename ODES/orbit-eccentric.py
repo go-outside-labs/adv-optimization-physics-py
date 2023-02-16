@@ -1,6 +1,5 @@
 # compare Euler's method and the Euler-Cromer method for eccentric orbits
-#
-# M. Zingale (2013-02-19)
+
 
 import numpy
 import pylab

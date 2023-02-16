@@ -12,8 +12,7 @@
 # 4 pi**2 = G
 #
 # we work in coordinates with the Sun at the origin
-#
-# M. Zingale (2013-02-19)
+
 
 import math
 import numpy

@@ -31,8 +31,6 @@ fill the ghost cells
 
    data.fillBC("density")
 
-M. Zingale (2013-03-28)
-
 """
 
 import numpy

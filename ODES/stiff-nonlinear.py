@@ -16,8 +16,7 @@
 # the intermediate behavior.  The second call has VODE handle the
 # timestep throughout the entire integration and does 0 to tmax in one
 # call.
-#
-# M. Zingale (2013-02-23)
+
 
 import numpy
 import pylab

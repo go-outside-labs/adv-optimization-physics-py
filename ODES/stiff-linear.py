@@ -21,8 +21,6 @@
 # (I - dt A) Y^{n+1} = Y^n
 #
 # also do Runge-Kutta 4th order and VODE
-#
-# M. Zingale (2013-02-22)
 
 import numpy
 import pylab

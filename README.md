@@ -1,8 +1,5 @@
-## 🌌🛩  Advanced Numerical Methods for Physics
+## 🌌🛩  advanced numerical methods for physics
 
-<br>
-
-##### Graduate studies of numerical methods for Physics and Astrophysics:
 
 <br>
 

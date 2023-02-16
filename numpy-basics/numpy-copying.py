@@ -5,9 +5,6 @@ import numpy as np
 
 a = np.arange(12)
 
-# assignments
-
-print "assignments"
 
 b = a   # no new object is created -- b and a point to the same object
 print b is a   
