@@ -1,4 +1,4 @@
-## 🌌🛩  advanced numerical methods for physics
+## 🌌🛩  advanced numerical methods and optimization for physics
 
 
 <br>
