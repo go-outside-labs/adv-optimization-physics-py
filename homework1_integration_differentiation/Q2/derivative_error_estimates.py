@@ -4,7 +4,7 @@
 #    1) the Richardson derivative of f(x) = sin(x) at x = 1 using an adaptative scheme,
 #    2) for a relative error < 1e-7,
 #                                                                          
-#    (Marina von Steinkirch, spring 2013)
+#    (MIA STEIN, spring 2013)
 #
 #################################################################################
 

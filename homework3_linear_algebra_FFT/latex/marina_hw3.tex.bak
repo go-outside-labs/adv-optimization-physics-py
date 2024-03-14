@@ -1,4 +1,4 @@
-% MARINA VON STEINKIRCH, SPRING/2013
+% MIA STEIN, SPRING/2013
 % http://mysbfiles.stonybrook.edu/~mvonsteinkir/
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -26,11 +26,11 @@
 \newcommand{\eg}{{\it e.g., }}
 
 \markright{PHYS 688: Homework \#3 Numerical Methods for (Astro)Physics}
-\author{\color{purple}{\bf Marina von Steinkirch}}
+\author{\color{purple}{\bf MIA STEIN}}
 \title{\color{red}{\bf PHYS 688: Numerical Methods for AstroPhysics \\Homework \#3: Linear Algebra and FFTs} }
 
 \fancyhf{}
-\lhead{Marina von Steinkirch}
+\lhead{MIA STEIN}
 \chead{Linear Algebra and FFTs}
 \rhead{Homework \#3}
 \cfoot{Page \thepage{} of \protect\pageref{LastPage}}

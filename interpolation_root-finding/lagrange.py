@@ -1,5 +1,5 @@
 # lagrange interpolation example
-# author: steinkirch
+# author: MIA STEIN
 
 import math
 import numpy

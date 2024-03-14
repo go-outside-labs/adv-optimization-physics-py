@@ -3,7 +3,7 @@
         Ustar = Ud + G\phi
     where G is the discrete gradient.
     
-    marina von steinkirch, spring/2013
+    MIA STEIN, spring/2013
     
 """
 

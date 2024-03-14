@@ -1,6 +1,6 @@
 """"
     This program calculates the inverse of a matrix by many ways.
-    Marina von Steinkirch, spring/2013 (based on Mike Zingale's codes)
+    MIA STEIN, spring/2013 (based on Mike Zingale's codes)
 
 """
 

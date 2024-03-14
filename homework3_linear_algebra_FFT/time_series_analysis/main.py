@@ -1,7 +1,7 @@
 """"
 
     This program performs time series analysis for the damped driven pendulum 
-    Marina von Steinkirch, spring/2013 (based on Mike Zingale's codes)
+    MIA STEIN, spring/2013 (based on Mike Zingale's codes)
 
 """
 

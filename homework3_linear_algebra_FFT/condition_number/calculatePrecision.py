@@ -1,7 +1,7 @@
 """
 
     This module calculates the machine precision
-    Marina von Steinkirch (based on Mike Zingale's code), spring 2013.
+    MIA STEIN (based on Mike Zingale's code), spring 2013.
 
 """
 

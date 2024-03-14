@@ -4,7 +4,7 @@
 #
 # This module implements all the classes and functions for the problem.
 #
-#    Marina von Steinkirch, spring/2013 
+#    MIA STEIN, spring/2013 
 #    (based on Mike Zingale's codes)
 #
 ########################################################################

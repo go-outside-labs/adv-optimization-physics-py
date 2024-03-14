@@ -1,7 +1,7 @@
 """ 
     In this program we study the Lax-Wendroff method and its convergence.
     
-    Marina von Steinkirch, spring/2013
+    MIA STEIN, spring/2013
     
     Based on Mike Zingale's code 2nd-order accurate finite-volume implementation 
     of linear advection with  piecewise linear slope reconstruction

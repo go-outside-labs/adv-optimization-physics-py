@@ -1,7 +1,7 @@
 """"
 
     This program analysis the condition number of Hilbert Matrices.
-    Marina von Steinkirch, spring/2013 (based on Mike Zingale's codes)
+    MIA STEIN, spring/2013 (based on Mike Zingale's codes)
 
 """
 

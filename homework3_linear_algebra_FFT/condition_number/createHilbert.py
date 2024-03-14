@@ -1,7 +1,7 @@
 """
 
     This module creates the Hilbert matrix system.
-    Marina von Steinkirch, spring 2013.
+    MIA STEIN, spring 2013.
 
 """
 

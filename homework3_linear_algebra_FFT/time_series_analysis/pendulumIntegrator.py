@@ -4,7 +4,7 @@
     and integrates it using the 4th Runge-Kutta method with a uniform
     timestep.
     
-    Marina von Steinkirch, spring/2013 (based on Mike Zingale's codes)
+    MIA STEIN, spring/2013 (based on Mike Zingale's codes)
 
 """
 

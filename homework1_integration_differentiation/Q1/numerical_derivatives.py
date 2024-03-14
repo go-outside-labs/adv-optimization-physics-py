@@ -5,7 +5,7 @@
 # and 4-points derivatives, with the difference centered or one-sided.
 #
 #    Copied from Mike Zingale's, with addition of d2r and d2l.
-#    (Marina von Steinkirch, spring 2013)
+#    (MIA STEIN, spring 2013)
 #
 #########################################################################
 

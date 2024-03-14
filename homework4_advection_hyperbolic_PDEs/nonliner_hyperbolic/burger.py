@@ -3,7 +3,7 @@
     burger's equation
         ut_uux = 0
     
-    Marina von Steinkirch, spring/2013
+    MIA STEIN, spring/2013
     
     Based on Mike Zingale's code for 2nd-order accurate finite-volume implementation of 
     the inviscid Burger's equation with piecewise linear slope reconstruction

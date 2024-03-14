@@ -8,7 +8,7 @@
 #    1) We compare the solutions for theta = 10o and 100o.
 #    2) We make a plot of both theta(t) vs t and E vs t.
 #
-#    Marina von Steinkirch, spring/2013 
+#    MIA STEIN, spring/2013 
 #    (based on Mike Zingale's codes)
 #
 ########################################################################

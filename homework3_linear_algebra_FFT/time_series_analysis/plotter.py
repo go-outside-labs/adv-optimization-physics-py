@@ -1,7 +1,7 @@
 """
 
     This module produces the outputs/plots.
-    Marina von Steinkirch, spring/2013
+    MIA STEIN, spring/2013
     
 """
 

@@ -4,7 +4,7 @@
         U = Ud + phi
     This program recovers a divergemce-free filed on a 2-d grid.
     
-    Marina von Steinkirch, based on M. Zingale's codes, spring 2013
+    MIA STEIN, based on M. Zingale's codes, spring 2013
 """
 
 

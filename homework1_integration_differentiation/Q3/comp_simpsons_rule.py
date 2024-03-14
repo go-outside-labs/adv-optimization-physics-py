@@ -6,7 +6,7 @@
 #     interval [0,1], using N = 3,7,15 and 31 slabs/intervals, for odd Ns.
 #    2) Plots the absolute error vs delta = (b-a)/N.
 #
-#    (Marina von Steinkirch, spring 2013)
+#    (MIA STEIN, spring 2013)
 #########################################################################
 
 import math

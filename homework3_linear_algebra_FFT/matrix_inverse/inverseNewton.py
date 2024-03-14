@@ -1,7 +1,7 @@
 """
 
     This module finds the inverse of a matrix using Newton's method.
-    Marina von Steinkirch spring 2013.
+    MIA STEIN spring 2013.
 
 """
 

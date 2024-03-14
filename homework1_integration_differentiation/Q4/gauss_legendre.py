@@ -7,7 +7,7 @@
 # compound version of the simpsons rules (two pairs of interval)
 #    3) compute the errors against the exact integral.
 #
-#    (Marina von Steinkirch, spring 2013)
+#    (MIA STEIN, spring 2013)
 #########################################################################
 import math
 import numpy

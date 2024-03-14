@@ -1,7 +1,7 @@
 """
     implicit * upwind *finite-difference * implementation the * linear advection *
     
-    Marina von Steinkirch, (totally) based on Mike Zingale's code, Spring/2013
+    MIA STEIN, (totally) based on Mike Zingale's code, Spring/2013
     
         The linear advection equation provides a simple problem to 
         explore methods for hyperbolic problems
